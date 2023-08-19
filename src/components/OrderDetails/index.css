@@ -1,0 +1,32 @@
+.order-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.order-bill {
+  font-size: 18px;
+  font-weight: 600;
+}
+.bill {
+  font-size: 20px;
+  font-weight: 700;
+}
+.tt-items {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.items-in-c {
+  font-size: 17px;
+  font-weight: 600;
+}
+.check-btn {
+  border: none;
+  cursor: pointer;
+  background-color: blue;
+  color: #fff;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  font-weight: 600;
+}
